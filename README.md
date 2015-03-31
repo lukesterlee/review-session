@@ -3,7 +3,6 @@
 To continue learning about `HashMap`:
 - How to add and get values by key (review)
 - How to use more advanced methods (`size`, `remove`, `clear`, `isEmpty`)
-- 
 
 # Personality of this session
 
