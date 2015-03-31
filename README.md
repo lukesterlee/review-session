@@ -3,6 +3,9 @@
 To continue learning about `HashMap`:
 - How to add and get values by key (review)
 - How to use more advanced methods (`size`, `remove`, `clear`, `isEmpty`)
+- 
+
+# Personality of this session
 
 # Time
 
@@ -17,17 +20,12 @@ Let's look at how much simpler "The Twelve Days of Christmas" assignment can be 
 
 > **Exercise:** Create a class `WordTracker`; import `HashMap`; and create a new `HashMap` named `words`. Its keys should be of type `String` and its values of type `Integer`.
 
-> **Exercise:** Prompt the user for some words; continue reading in words until the user inputs "stop". When calling `put()`, just pass 1 as the second parameter. Here's example program:
-> ```
-> Please give me some words:
-> latte
-> coffee
-> mocha
+
 > stop
 > Thanks!
 > ```
 
-# HashMap advanced methods
+
 
 #### size()
 
