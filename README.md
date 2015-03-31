@@ -9,22 +9,30 @@ To continue learning about `HashMap`:
 # Time & Place
 
 #### Time
+
+Session 1 : 7:00 PM ~ 11:00 PM, Friday, April 3rd, 2015 (Total 4 Hours long)
+Session 2 : 2:00PM ~ 06:00 PM, Sunday, April 5th, 2015 (Total 4 Hours long)
+
+
 #### Place
 **C4Q:** 31-00 47th Ave #1105, Long Island City, NY 11101
 
 Introducing [this week's homework](https://github.com/accesscode-2-1/unit-0/issues/6)...
 
+# People
+
+Friday session : Janneisy, Anna, Joshelyn, Madelyn,
+Sunday session : Jorge, Elvis, Ray, John,
 
 # Topics
-> *Definition:* A *map* is a collection that associates keys with values.
 
-> **Exercise:** Create a class `WordTracker`; import `HashMap`; and create a new `HashMap` named `words`. Its keys should be of type `String` and its values of type `Integer`.
-
-
-> stop
-> Thanks!
-> ```
-
+- 1. Class VS Object
+- 2. Constructor
+- 3. Static
+- 4. Method
+- 5. Public VS Private
+- 6. Primitive VS Reference
+- Extra. Loops
 
 
 #### size()
@@ -40,66 +48,6 @@ Just like with an `ArrayList`, you can get the size of a `HashMap` by calling th
 > Thanks! You have given me 2 word(s)!
 > ```
 
-#### remove()
-
-Call `remove(key)` to remove the `key` parameter from the `HashMap`. For example, to remove "latte" from the previous exercise, we would write:
-
-```java
-words.remove("latte");
-```
-
-> **Exercise:** Modify your program so that if the user types `rm`, every subsequent word the user types *removes* it from the `HashMap`. If the user types `add`, the program switches back to adding. Use a boolean `addMode` to track which mode the program is in. Initialize it outside of your loop. 
-> ```
-> Please give me some words:
-> latte
-> coffee
-> rm
-> coffee
-> stop
-> Thanks! You have given me 1 word(s)!
-> ```
-> Here's another program run:
-> ```
-> Please give me some words:
-> foo
-> bar
-> rm
-> bar
-> add
-> qux
-> stop
-> Thanks! You have input 2 words.
-> ```
-
-#### clear()
-
-Call `clear()` to remove all the elements from the `HashMap`.
-
-> **Exercise:** Modify your program so that if the user types "clr", the tracked words are cleared.
-> ```
-> Please give me some words:
-> foo
-> bar
-> clr
-> stop
-> Thanks! You have input 0 words.
-> ```
-
-#### isEmpty()
-
-Call `isEmpty()` to return a `boolean` indicating whether or not the `HashMap` is empty. Notice it is just syntactic sugar for...
-
-```java
-words.size() == 0;
-```
-
-> **Exercise:** Modify your program to check if `words` is empty at the end of the program. 
-> ```
-> Please give me some words:
-> stop
-> Thanks! You have input 0 words.
-> Words is empty.
-> ```
 
 
 # Structures of this session
