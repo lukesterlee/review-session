@@ -101,69 +101,8 @@ words.size() == 0;
 > Words is empty.
 > ```
 
-#### keySet()
 
-There are many ways to iterate over a `HashMap`. We're going to learn just one:
-
-```java
-for (String word : words.keySet()) {
-}
-```
-
-We'll look at the `Set` data structure on Thursday; for now, just know that calling `keySet()` returns an iterable collection and that you can iterate over it like above.
-
-> **Exercise:** Modify your program to print the counts of each word. For example:
-> ```
-> Please give me some words:
-> banana
-> orange
-> stop
-> Thanks! You have input 2 words.
-> Here they are:
-> orange: 1
-> banana: 1
-> ```
-
-Final exercise!
-
-> **Exercise:** Modify your program to keep track of multiple inputs of the same word. For example:
-> ```
-> Please give me some words:
-> banana
-> banana
-> banana
-> orange
-> stop
-> Thanks! You have input 2 words.
-> Here they are:
-> orange: 1
-> banana: 3
-
-You've written a complex program! This kind of input should work for you now:
-
-```
-Please give me some words:
-banana
-orange
-rm
-orange
-add
-water
-sugar
-juice
-juice
-juice
-juice
-stop
-Thanks! You have input 4 words.
-Here they are:
-water: 1
-banana: 1
-juice: 4
-sugar: 1
-```
-
-# In-class assignment: RestaurantFacts based on NYC Open Data
+# Structures of this session
 
 We'll be using NYC Open Data again to build a `HashMap` of [restaurant data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/xx67-kt59). Use [`FileParser`](in-class%20exercise%20solutions/RestaurantFacts/FileParser.java) to get an `ArrayList` representing the lines in the file and follow [this stencil file](in-class%20exercise%20solutions/RestaurantFacts/RestaurantFacts.java).
 
