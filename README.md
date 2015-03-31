@@ -12,6 +12,7 @@ Introducing [this week's homework](https://github.com/accesscode-2-1/unit-0/issu
 
 # Place
 
+C4Q : 31-00 47th Ave #1105, Long Island City, NY 11101
 Let's look at how much simpler "The Twelve Days of Christmas" assignment can be [with a `HashMap`](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/TwelveDaysHM.java).
 
 # Topics
