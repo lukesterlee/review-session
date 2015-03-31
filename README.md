@@ -70,3 +70,11 @@ A
 
 #### Bonus
 > Modify your `HashMap` of `String`s to hold an `ArrayList` of `String`s. When the user inputs a restaurant name, print all the relevant facts that you have.
+
+# Things to do before coming to this session
+
+•	Take minimum 8 hours sleep! No drink, this is brain work.
+•	Your laptop with at least 4 hours battery
+•	Papers and Pen
+•	Enthutiasm
+
