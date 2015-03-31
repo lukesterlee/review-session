@@ -36,6 +36,12 @@ Sunday session : Jorge, Elvis, Ray, John,
 - 6. Primitive VS Reference
 - Extra. Loops
 
+#### 1. Class VS Object
+#### 2. Constructor
+#### 3. Static
+#### 4. Method
+ - What is method?
+#### 5. Public VS Private
 
 #### size()
 
