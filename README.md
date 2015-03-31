@@ -4,15 +4,15 @@ To continue learning about `HashMap`:
 - How to add and get values by key (review)
 - How to use more advanced methods (`size`, `remove`, `clear`, `isEmpty`)
 
-# Homework
+# Time
 
 Introducing [this week's homework](https://github.com/accesscode-2-1/unit-0/issues/6)...
 
-# Twelve Days redux
+# Place
 
 Let's look at how much simpler "The Twelve Days of Christmas" assignment can be [with a `HashMap`](https://github.com/accesscode-2-1/unit-0/blob/master/in-class%20exercise%20solutions/TwelveDaysHM.java).
 
-# Review
+# Topics
 > *Definition:* A *map* is a collection that associates keys with values.
 
 > **Exercise:** Create a class `WordTracker`; import `HashMap`; and create a new `HashMap` named `words`. Its keys should be of type `String` and its values of type `Integer`.
