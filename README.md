@@ -12,7 +12,7 @@ Introducing [this week's homework](https://github.com/accesscode-2-1/unit-0/issu
 
 # Place
 
-`**C4Q:**` 31-00 47th Ave #1105, Long Island City, NY 11101
+**C4Q:** 31-00 47th Ave #1105, Long Island City, NY 11101
 
 
 # Topics
