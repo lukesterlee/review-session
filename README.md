@@ -6,13 +6,13 @@ To continue learning about `HashMap`:
 
 # Personality of this session
 
-# Time
+# Time & Place
+
+#### Time
+#### Place
+**C4Q:** 31-00 47th Ave #1105, Long Island City, NY 11101
 
 Introducing [this week's homework](https://github.com/accesscode-2-1/unit-0/issues/6)...
-
-# Place
-
-**C4Q:** 31-00 47th Ave #1105, Long Island City, NY 11101
 
 
 # Topics
