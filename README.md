@@ -54,6 +54,10 @@ Just like with an `ArrayList`, you can get the size of a `HashMap` by calling th
 
 # Structures of this session
 
+This session is 4 hours long.
+
+
+
 We'll be using NYC Open Data again to build a `HashMap` of [restaurant data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/xx67-kt59). Use [`FileParser`](in-class%20exercise%20solutions/RestaurantFacts/FileParser.java) to get an `ArrayList` representing the lines in the file and follow [this stencil file](in-class%20exercise%20solutions/RestaurantFacts/RestaurantFacts.java).
 
 Here's a simple program execution:
