@@ -73,8 +73,8 @@ A
 
 # Things to do before coming to this session
 
-•	Take minimum 8 hours sleep! No drink, this is brain work.
-•	Your laptop with at least 4 hours battery
-•	Papers and Pen
-•	Enthutiasm
+- Take minimum 8 hours sleep! No drink, this is brain work.
+- Your laptop with at least 4 hours battery
+- Papers and Pen
+- Enthutiasm
 
