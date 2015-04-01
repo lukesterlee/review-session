@@ -8,5 +8,5 @@
 -	Void VS other returns (What do I do with return values?)
 -	Pass by Value VS Pass by Reference
 -	Scoping
--	Modulizing
+-	Modularizing
 -	General design : top down design and implements
