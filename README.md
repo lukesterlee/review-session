@@ -18,13 +18,12 @@ Session 2 : 2:00PM ~ 06:00 PM, Sunday, April 5th, 2015 (Total 4 Hours long)
 #### Place
 **C4Q:** 31-00 47th Ave #1105, Long Island City, NY 11101
 
-Introducing [this week's homework](https://github.com/accesscode-2-1/unit-0/issues/6)...
 
 # People
 
-Friday session : Janneisy, Anna, Joshelyn, Madelyn,
+Friday session : Janneisy, Anna, Madelyn, Vanice, (John)*
 
-Sunday session : Jorge, Elvis, Ray, John,
+Sunday session : Jorge, Elvis, Ray, Madelyn, Joshelyn, Reinard, (Anna)*
 
 # Topics
 
@@ -36,16 +35,8 @@ Sunday session : Jorge, Elvis, Ray, John,
 - 6. Primitive VS Reference
 - Extra. Loops
 
-#### 1. Class VS Object
-#### 2. Constructor
-#### 3. Static
-#### 4. Method
- - What is method?
-#### 5. Public VS Private
+We will focus on getting the concepts.
 
-#### size()
-
-Just like with an `ArrayList`, you can get the size of a `HashMap` by calling the method `size`.
 
 > **Exercise:** Modify your program to tell the user how many words they input.
 > ```
@@ -82,5 +73,5 @@ A
 - Take minimum 8 hours sleep! No drink, this is brain work.
 - Your laptop with at least 4 hours battery
 - Papers and Pen
-- Enthutiasm
+- Enthusiasm
 
