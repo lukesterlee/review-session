@@ -10,3 +10,13 @@
 -	Scoping
 -	Modularizing
 -	General design : top down design and implements
+
+####
+####
+####
+####
+####
+
+You don't have to exactly know how it works
+what you need to know is what you should give (arguments) and what you are going to get (return value)
+ex) prime number, factorial number, leap year, 
