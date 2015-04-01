@@ -1,10 +1,12 @@
 # Objectives
 
-To continue learning about `HashMap`:
-- How to add and get values by key (review)
-- How to use more advanced methods (`size`, `remove`, `clear`, `isEmpty`)
+- To help students who are struggling
+- Understanding the basic concepts of methods, class, objects.
+- Clear understanding of static and non-static.
 
 # Personality of this session
+
+We will focus on getting the concepts.
 
 # Time & Place
 
@@ -12,7 +14,7 @@ To continue learning about `HashMap`:
 
 Session 1 : 7:00 PM ~ 11:00 PM, Friday, April 3rd, 2015 (Total 4 Hours long)
 
-Session 2 : 2:00PM ~ 06:00 PM, Sunday, April 5th, 2015 (Total 4 Hours long)
+Session 2 : 2:00 PM ~ 06:00 PM, Sunday, April 5th, 2015 (Total 4 Hours long)
 
 
 #### Place
@@ -34,7 +36,7 @@ Sunday session : Jorge, Elvis, Ray, Madelyn, Joshelyn, Reinard, (Anna)*
 - 5. Public VS Private
 - 6. Primitive VS Reference
 
-We will focus on getting the concepts.
+
 
 
 > **Exercise:** Modify your program to tell the user how many words they input.
