@@ -33,7 +33,6 @@ Sunday session : Jorge, Elvis, Ray, Madelyn, Joshelyn, Reinard, (Anna)*
 - 4. Method
 - 5. Public VS Private
 - 6. Primitive VS Reference
-- Extra. Loops
 
 We will focus on getting the concepts.
 
