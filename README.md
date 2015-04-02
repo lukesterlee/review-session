@@ -62,7 +62,12 @@ practice & implementing class and methods : 60 mins
 
 # Personality of this session
 
-We will just focus on getting the concepts. For the first 3 hours, we will learn with papers and a white board to visualize the concepts and class & methods structures.
+- We will not go over for homeworks
+- We will just focus on getting the concepts.
+- The target students of this class are people who are struggling. There might be a lot of repetitions.
+- Don't think about getting the right answers or solving the problems. just focus on understanding and getting the concepts.
+- For the first 3 hours, we will learn with papers and a white board to visualize the concepts and class & methods structures.
+- Again, we will NOT go over for homeworks LOL period
 
 # Things to do/bring before coming to this session
 
