@@ -94,3 +94,17 @@ heap, stack, cup, remote control
 #### Example)
 
 #### Exercise)
+
+# 9. Final
+
+Circle
+
+Dog
+
+Person
+
+Book
+
+TV
+
+
