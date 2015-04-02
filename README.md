@@ -19,9 +19,9 @@
 
 # People
 
-> Friday session : `Janneisy`, `Anna`, `Vanice`, `Reinard`, (John)*
+> Friday session : `Janneisy`, `Anna`, `Vanice`, `Reinard`, `Madelyn`, (John)*
 
-> Sunday session : `Jorge`, `Elvis`, `Ray`, `Madelyn`, `Joshelyn`, (Anna)*
+> Sunday session : `Jorge`, `Elvis`, `Ray`, `Joshelyn`, (Anna)*
 
 \* are guests.
 
