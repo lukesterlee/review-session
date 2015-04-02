@@ -15,7 +15,7 @@
 
 #### Lecture)
 
-blueprint, template, recipe
+blueprint, template, recipe, format/form of the card
 
 #### Example)
 
