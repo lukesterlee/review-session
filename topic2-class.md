@@ -95,6 +95,15 @@ heap, stack, cup, remote control
 
 #### Exercise)
 
+What is wrong with this code?
+
+```java
+Person p1;
+for (int i = 1; i < 10; i++) {
+     p1 = new Person();
+}
+```
+
 # 9. Final
 
 Circle
