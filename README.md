@@ -22,7 +22,7 @@ Friday session : Janneisy, Anna, Vanice, (John)*
 
 Sunday session : Jorge, Elvis, Ray, Madelyn, Joshelyn, Reinard, (Anna)*
 
-* are guests.
+\* are guests.
 
 # Topics
 
