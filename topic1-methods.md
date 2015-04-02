@@ -43,7 +43,7 @@ public static void main(String[] args) {
 }
 ```
 
-#### Exercise)
+> **Exercise:**
 
 # 2. Structure of a method (modifier, argument(s), return value)
 
@@ -55,7 +55,7 @@ p:108~111
 
 #### Example)
 
-#### Exercise)
+> **Exercise:**
 
 # 3. Defining a method
 
@@ -63,7 +63,7 @@ p:108~111
 
 #### Example)
 
-#### Exercise)
+> **Exercise:**
 
 # 4. Calliing a method (call stack) (execution flow of a method and main)
 
@@ -78,7 +78,7 @@ max, sum
 
 #### Example)
 
-#### Exercise)
+> **Exercise:**
 
 # 5. Return types : void and others (what do I do with the return value?)
 
@@ -86,7 +86,7 @@ max, sum
 
 #### Example)
 
-#### Exercise)
+> **Exercise:**
 
 
 # 6. pass by value VS pass by reference
@@ -108,7 +108,7 @@ public static void doSomething(int x, int y) {
 }
 ```
 
-#### Exercise)
+> **Exercise:**
 
 change the code so it does something.
 
@@ -123,7 +123,7 @@ change the code so it does something.
 
 #### Example)
 
-#### Exercise)
+> **Exercise:**
 
 # 8. Modularizing
 
@@ -135,7 +135,7 @@ drawRocket
 
 calendar
 
-#### Exercise)
+> **Exercise:**
 
 # 9. General design : top down design and implementation
 
