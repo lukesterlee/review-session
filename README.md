@@ -54,11 +54,9 @@ Sunday session : Jorge, Elvis, Ray, Madelyn, Joshelyn, (Anna)*
 
 This session is 4 hours long.
 
-methods : 90 mins
-
-clsss : 90 mins
-
-practice & implementing class and methods : 60 mins
+- methods : 90 mins
+- clsss : 90 mins
+- practice & implementing class and methods : 60 mins
 
 # Personality of this session
 
