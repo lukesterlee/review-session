@@ -73,7 +73,24 @@ why are we using this keyword? constructor with this keyword
 
 #### Example)
 
+```java
+public class Person {
+
+     private String name;
+     private int age;
+     
+     public Person(String name) {
+          this.name = name;
+          age = 0;
+     }
+     
+     
+}
+```
+
 #### Exercise)
+
+why we don't use `this.age` while we use `this.name`?
 
 # 7. public? private? and getter and setter
 
