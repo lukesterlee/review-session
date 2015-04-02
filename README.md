@@ -7,21 +7,21 @@
 
 #### 1. Time
 
-Session 1 : 7:00 PM ~ 11:00 PM, Friday, April 3rd, 2015 (Total 4 Hours long)
+> Session 1 : 7:00 PM ~ 11:00 PM, Friday, April 3rd, 2015 (Total 4 Hours long)
 
-Session 2 : 2:00 PM ~ 06:00 PM, Sunday, April 5th, 2015 (Total 4 Hours long)
+> Session 2 : 2:00 PM ~ 06:00 PM, Sunday, April 5th, 2015 (Total 4 Hours long)
 
 
 #### 2. Place
 
-**C4Q:** 31-00 47th Ave #1105, Long Island City, NY 11101
+> **C4Q:** 31-00 47th Ave #1105, Long Island City, NY 11101
 
 
 # People
 
-Friday session : `Janneisy`, `Anna`, `Vanice`, `Reinard`, (John)*
+> Friday session : `Janneisy`, `Anna`, `Vanice`, `Reinard`, (John)*
 
-Sunday session : `Jorge`, `Elvis`, `Ray`, `Madelyn`, `Joshelyn`, (Anna)*
+> Sunday session : `Jorge`, `Elvis`, `Ray`, `Madelyn`, `Joshelyn`, (Anna)*
 
 \* are guests.
 
