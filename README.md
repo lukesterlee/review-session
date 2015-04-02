@@ -18,9 +18,9 @@ Session 2 : 2:00 PM ~ 06:00 PM, Sunday, April 5th, 2015 (Total 4 Hours long)
 
 # People
 
-Friday session : Janneisy, Anna, Vanice, (John)*
+Friday session : Janneisy, Anna, Vanice, Reinard, (John)*
 
-Sunday session : Jorge, Elvis, Ray, Madelyn, Joshelyn, Reinard, (Anna)*
+Sunday session : Jorge, Elvis, Ray, Madelyn, Joshelyn, (Anna)*
 
 \* are guests.
 
