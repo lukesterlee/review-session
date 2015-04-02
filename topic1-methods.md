@@ -14,7 +14,9 @@
 
 # 1. What is methods?
 
-#### Lecture) magic box
+#### Lecture) 
+
+magic box, re-use, blocks
 
 #### Example)
 
@@ -69,6 +71,19 @@ max, sum
 #### Lecture) 
 
 #### Example)
+
+```java
+public static void main(String[] args) {
+    int a = 10;
+    int b = 20;
+    doSomething(a, b);
+    System.out.println(a + " " + b);
+}
+public static void doSomething(int x, int y) {
+    x = 100;
+    y = 200;
+}
+```
 
 #### Exercise)
 
