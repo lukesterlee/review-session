@@ -63,9 +63,9 @@ practice & implementing class and methods : 60 mins
 
 We will just focus on getting the concepts. For the first 3 hours, we will learn with papers and a white board to visualize the concepts and class & methods structures.
 
-# Things to do before coming to this session
+# Things to do/bring before coming to this session
 
-- Take minimum 8 hours sleep! No drink, this is brain work.
+- Take minimum 8 hours sleep! No drinking and partying, this is a brain work.
 - Your laptop with at least 4 hours battery
 - Papers and a pen
 - Enthusiasm
