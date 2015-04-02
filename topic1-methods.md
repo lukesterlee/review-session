@@ -87,6 +87,8 @@ public static void doSomething(int x, int y) {
 
 #### Exercise)
 
+change the code so it does something.
+
 
 # 7. The scope of variables
 
