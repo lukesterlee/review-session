@@ -55,7 +55,7 @@ p:108~111
 
 #### Example)
 
-> **Exercise:**
+> **Exercise:** 
 
 # 3. Defining a method
 
@@ -63,7 +63,7 @@ p:108~111
 
 #### Example)
 
-> **Exercise:**
+> **Exercise:** Write a static method named `min` which takes TWO integer numbers as arguments and returns the smaller one. 
 
 # 4. Calliing a method (call stack) (execution flow of a method and main)
 
