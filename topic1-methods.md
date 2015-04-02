@@ -30,6 +30,8 @@ p:108~111
 
 #### 4. Calliing a method (call stack) (execution flow of a method and main)
 
+![Calling](https://github.com/lukesterlee/review-session/blob/master/methods/calling.JPG)
+
 ex) checkCity, person class example
 max, sum
 
