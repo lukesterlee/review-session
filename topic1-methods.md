@@ -35,6 +35,8 @@ p:108~111
 ex) checkCity, person class example
 max, sum
 
+![](https://github.com/lukesterlee/review-session/blob/master/methods/callstack.JPG)
+
 #### 5. Return types : void and others (what do I do with the return value?)
 
 
@@ -43,6 +45,11 @@ max, sum
 
 
 #### 7. The scope of variables
+
+![](https://github.com/lukesterlee/review-session/blob/master/methods/scopeforloop.JPG)
+
+![](https://github.com/lukesterlee/review-session/blob/master/methods/scopecomparison.JPG)
+
 #### 8. Modularizing
 #### 9. General design : top down design and implementation
 
