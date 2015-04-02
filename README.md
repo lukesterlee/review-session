@@ -5,14 +5,14 @@
 
 # Time & Place
 
-#### Time
+#### 1. Time
 
 Session 1 : 7:00 PM ~ 11:00 PM, Friday, April 3rd, 2015 (Total 4 Hours long)
 
 Session 2 : 2:00 PM ~ 06:00 PM, Sunday, April 5th, 2015 (Total 4 Hours long)
 
 
-#### Place
+#### 2. Place
 **C4Q:** 31-00 47th Ave #1105, Long Island City, NY 11101
 
 
@@ -26,7 +26,7 @@ Sunday session : Jorge, Elvis, Ray, Madelyn, Joshelyn, Reinard, (Anna)*
 
 # Topics
 
-#### Methods
+#### 1. Methods
 
 - What is methods?
 - Structure of a method (modifier, argument(s), return value)
@@ -38,7 +38,7 @@ Sunday session : Jorge, Elvis, Ray, Madelyn, Joshelyn, Reinard, (Anna)*
 - Modularizing
 - General design : top down design and implementation
 
-#### Class
+#### 2. Class
 
 - What is class?
 - What is object?
