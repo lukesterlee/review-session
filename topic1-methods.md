@@ -14,7 +14,9 @@
 
 #### 1. What is methods?
 
-magic box
+lecture : magic box
+ex)
+q)
 
 #### 2. Structure of a method (modifier, argument(s), return value)
 
