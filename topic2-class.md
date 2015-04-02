@@ -15,6 +15,8 @@
 
 #### Lecture)
 
+blueprint, template, recipe
+
 #### Example)
 
 #### Exercise)
@@ -22,6 +24,8 @@
 # 2. What is object?
 
 #### Lecture)
+
+actual object, copy,
 
 #### Example)
 
@@ -31,6 +35,10 @@
 
 #### Lecture)
 
+apple pie recipe VS apple pie
+
+empty card with field
+
 #### Example)
 
 #### Exercise)
@@ -38,6 +46,8 @@
 # 4. Constructor
 
 #### Lecture)
+
+in order to create instances, every time you see new
 
 #### Example)
 
@@ -47,6 +57,10 @@
 
 #### Lecture)
 
+static : class variables, one copy, general, global, independent from instances
+
+non-static : instance variables, specific,
+
 #### Example)
 
 #### Exercise)
@@ -54,6 +68,8 @@
 # 6. this keyword
 
 #### Lecture)
+
+why are we using this keyword? constructor with this keyword
 
 #### Example)
 
@@ -63,6 +79,8 @@
 
 #### Lecture)
 
+data encapsulation
+
 #### Example)
 
 #### Exercise)
@@ -70,6 +88,8 @@
 # 8. primitives VS references (pass by value)
 
 #### Lecture)
+
+heap, stack, cup, remote control
 
 #### Example)
 
