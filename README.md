@@ -13,6 +13,7 @@ Session 2 : 2:00 PM ~ 06:00 PM, Sunday, April 5th, 2015 (Total 4 Hours long)
 
 
 #### 2. Place
+
 **C4Q:** 31-00 47th Ave #1105, Long Island City, NY 11101
 
 
