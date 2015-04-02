@@ -52,10 +52,13 @@ Sunday session : Jorge, Elvis, Ray, Madelyn, Joshelyn, (Anna)*
 # Structures of this session
 
 This session is 4 hours long.
+methods : 90 mins
+clsss : 90 mins
+practice & implementing class and methods : 60 mins
 
 # Personality of this session
 
-We will focus on getting the concepts.
+We will just focus on getting the concepts. For the first 3 hours, we will learn with papers and a white board to visualize the concepts and class & methods structures.
 
 # Things to do before coming to this session
 
