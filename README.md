@@ -4,9 +4,6 @@
 - Understanding the basic concepts of methods, class, objects.
 - Clear understanding of static and non-static.
 
-# Personality of this session
-
-We will focus on getting the concepts.
 
 # Time & Place
 
@@ -23,56 +20,49 @@ Session 2 : 2:00 PM ~ 06:00 PM, Sunday, April 5th, 2015 (Total 4 Hours long)
 
 # People
 
-Friday session : Janneisy, Anna, Madelyn, Vanice, (John)*
+Friday session : Janneisy, Anna, Vanice, (John)*
 
 Sunday session : Jorge, Elvis, Ray, Madelyn, Joshelyn, Reinard, (Anna)*
 
+* are guests.
+
 # Topics
 
-- 1. Class VS Object
-- 2. Constructor
-- 3. Static
-- 4. Method
-- 5. Public VS Private
-- 6. Primitive VS Reference
+#### Methods
 
+- What is methods?
+- Structure of a method (modifier, argument(s), return value)
+- Defining a method
+- Calliing a method (call stack) (execution flow of a method and main)
+- Return types : void and others (what do I do with the return value?)
+- pass by value VS pass by reference
+- The scope of variables
+- Modularizing
+- General design : top down design and implementation
 
+#### Class
 
-
-> **Exercise:** Modify your program to tell the user how many words they input.
-> ```
-> Please give me some words:
-> latte
-> coffee
-> stop
-> Thanks! You have given me 2 word(s)!
-> ```
-
-
+- What is class?
+- What is object?
+- Difference between class and object
+- Constructor
+- static? non-static? (class variables VS instance variables)
+- this keyword
+- public? private? and getter and setter
+- primitives VS references (pass by value)
 
 # Structures of this session
 
 This session is 4 hours long.
 
+# Personality of this session
 
-
-We'll be using NYC Open Data again to build a `HashMap` of [restaurant data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/xx67-kt59). Use [`FileParser`](in-class%20exercise%20solutions/RestaurantFacts/FileParser.java) to get an `ArrayList` representing the lines in the file and follow [this stencil file](in-class%20exercise%20solutions/RestaurantFacts/RestaurantFacts.java).
-
-Here's a simple program execution:
-
-```
-Name a restaurant:
-MORRIS PARK BAKE SHOP
-A
-```
-
-#### Bonus
-> Modify your `HashMap` of `String`s to hold an `ArrayList` of `String`s. When the user inputs a restaurant name, print all the relevant facts that you have.
+We will focus on getting the concepts.
 
 # Things to do before coming to this session
 
 - Take minimum 8 hours sleep! No drink, this is brain work.
 - Your laptop with at least 4 hours battery
-- Papers and Pen
+- Papers and a pen
 - Enthusiasm
 
