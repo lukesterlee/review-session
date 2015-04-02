@@ -1,9 +1,7 @@
 # Objectives
 
-- To help students who are struggling
+- To help students who are struggling before we start Android development.
 - Understanding the basic concepts of methods, class, objects.
-- Clear understanding of static and non-static.
-
 
 # Time & Place
 
