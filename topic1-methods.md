@@ -20,6 +20,8 @@ q)
 
 #### 2. Structure of a method (modifier, argument(s), return value)
 
+![example](https://github.com/lukesterlee/review-session/blob/master/methods/structureOfMethods.JPG)
+
 p:108~111
 
 #### 3. Defining a method
