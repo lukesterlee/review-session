@@ -131,6 +131,8 @@ change the code so it does something.
 
 #### Example)
 
+drawRocket
+
 #### Exercise)
 
 # 9. General design : top down design and implementation
