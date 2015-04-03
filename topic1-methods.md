@@ -158,10 +158,25 @@ public static void doSomething(int x, int y) {
 swap
 increment
 
-> **Exercise:** What is wrong with this code?
+> **Exercise:** What is the expected output?
 
-change the code so it does something.
+```java
+public class Increment {
+    public static void main(String[] args) {
+        int x = 1;
+        System.out.println("Before the call, x is " + x);
+        increment(x);
+        System.out.println("after the call, x is " + x);
+    }
 
+    public static void increment(int n) {
+        n++;
+        System.out.println("n inside the method is " + n);
+    }
+}
+```
+
+> **Exercise:** Change this code to do something!
 
 # 6. The scope of variables
 
