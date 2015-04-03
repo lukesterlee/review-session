@@ -145,16 +145,9 @@ calendar
 
 > **Exercise:**
 
-# 8. General design : top down design and implementation
+# 8. Final
 
-#### Lecture) 
-
-
-
-
-#### Example)
-
-#### Exercise)
+> **Exercise:**
 
 
 ex) what is wrong with following examples?
