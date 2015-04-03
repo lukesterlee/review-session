@@ -63,6 +63,8 @@ p:108~111
 
 #### Lecture) 
 
+Declaring/defining(making,creating) VS Calling(using)
+
 #### Example)
 
 > **Exercise:** Write a static method named `min` which takes TWO integer numbers as arguments and returns the smaller one. 
