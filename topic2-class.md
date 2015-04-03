@@ -184,6 +184,8 @@ public class Cat {
 }
 ```
 
+![](https://github.com/lukesterlee/review-session/blob/master/class/publicprivate.JPG)
+
 
 #### Exercise)
 
