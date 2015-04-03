@@ -263,6 +263,8 @@ for (int i = 1; i < 10; i++) {
 
 > **Exercise:** Now we fully understand why we can't use `==` for String class. Explain to me! 
 
+> **Exercise:** Calendar project isDST visualization.
+
 # 9. Final
 
 #### Exercise 1)
