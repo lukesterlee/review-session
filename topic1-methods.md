@@ -48,6 +48,8 @@ public static void main(String[] args) {
 
 > **Exercise:**
 
+> **Exercise:** What is wrong with this code?
+
 # 2. Define a method / Structure of a method (modifier, argument(s), return value)
 
 #### Lecture) 
@@ -64,6 +66,8 @@ p:108~111
 
 > **Exercise:** Change code example 1.1 to a method which takes TWO integer numbers as arguments and returns the sum of between two numbers.
 
+> **Exercise:** What is wrong with this code?
+
 # 3. Calliing a method (call stack) (execution flow of a method and main)
 
 #### Lecture)  
@@ -77,7 +81,7 @@ max, sum
 
 #### Example)
 
-> **Exercise:**
+> **Exercise:** What is wrong with this code?
 
 # 4. Return types : void and others (what do I do with the return value?)
 
@@ -91,7 +95,7 @@ difference between void print and return value
 
 ```
 
-> **Exercise:**
+> **Exercise:** What is wrong with this code?
 
 
 # 5. pass by value VS pass by reference
@@ -118,7 +122,7 @@ public static void doSomething(int x, int y) {
 swap
 increment
 
-> **Exercise:**
+> **Exercise:** What is wrong with this code?
 
 change the code so it does something.
 
@@ -133,7 +137,7 @@ change the code so it does something.
 
 #### Example)
 
-> **Exercise:**
+> **Exercise:** What is wrong with this code?
 
 # 7. Modularizing
 
@@ -151,7 +155,7 @@ Modularizing code also makes your main clean and more readible and logic becomes
 
 calendar
 
-> **Exercise:**
+> **Exercise:** What is wrong with this code?
 
 # 8. Final
 
@@ -162,4 +166,4 @@ one big example
 > **Exercise:** do the same
 
 
-ex) what is wrong with following examples?
+> **Exercise:** What is wrong with this code?
