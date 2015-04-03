@@ -113,9 +113,9 @@ heap, stack, cup, remote control
 ```java
 
 public static void main(String[] args) {
-   int a = 3;
-   int b = 7;
-   hello(a, b);
+     int a = 3;
+     int b = 7;
+     hello(a, b);
 }
 public static void hello(int x, int y) {
      System.out.println("I'm just an example!");
@@ -125,14 +125,25 @@ public static void hello(int x, int y) {
 ```java
 
 public static void main(String[] args) {
-   Person p1 = new Person("Luke");
-   Person p2 = new Person("Will");
-   hello(p1, p2);
+     Person p1 = new Person("Luke");
+     Person p2 = new Person("Will");
+     hello(p1, p2);
 }
 public static void hello(Person mimi, Person bobo) {
      System.out.println("I'm just an example!");
 }
 ```
+
+```java
+public static void main(String[] args) {
+     Person p1 = new Person("Dan Stevens");
+     Person p2 = new Person("Zac Efron");
+     
+     Person p2 = new Person("Luke Lee");
+     Person p3 = p2;
+}
+```
+
 
 
 #### Exercise)
