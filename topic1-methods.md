@@ -83,6 +83,18 @@ max, sum
 
 > **Exercise:** What is wrong with this code?
 
+```java
+public static void main(String[] args) {
+    int a = 3;
+    int b = 7;
+    System.out.println(sum(a,b));
+}
+public static void sum(int x, int y) {
+    int sum = x + y;
+    System.out.println(sum);
+}
+```
+
 # 4. Return types : void and others (what do I do with the return value?)
 
 #### Lecture) 
