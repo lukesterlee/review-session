@@ -181,8 +181,11 @@ one big example
 > **Exercise:** What is wrong with this code?
 
 > **Exercise:** Sum of the digits of a number
+
 > number = 245, sum of digits = 11
+
 > Change this code into something modular. Write a method called `sumOfDigits` and use it in main method.
+
 
 ```java
 public static void main(String[] args) {
