@@ -177,6 +177,8 @@ one big example
 
 > **Exercise:** do the same
 
+> **Exercise:** Write a method named `cube` which takes an integer value as an argument and returns the cube of that integer. Then, call it in main.
+
 
 > **Exercise:** What is wrong with this code?
 
