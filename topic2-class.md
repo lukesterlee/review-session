@@ -158,7 +158,7 @@ public class Cat {
 
 What is wrong with this problem?
 
-![](https://github.com/lukesterlee/review-session/blob/master/class/publicprivate.JPG)
+![](https://github.com/lukesterlee/review-session/blob/master/class/publicprivate2.JPG)
 
 
 ```java
