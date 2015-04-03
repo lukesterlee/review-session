@@ -73,7 +73,12 @@ empty card with field
 
 // white board explanation part
 
-in order to create instances, every time you see new
+What is constructor?
+
+- A constructor must have the same name as the class itself.
+- Constructors DO NOT HAVE a return type - NOT EVEN void.
+- Constructors are executed using the new operator when an object is created. Constructors play the role of initializing objects. (setting up the default setting) (What is the advantage? eg : setting up age = 0 every newborn)
+
 
 #### Example)
 
