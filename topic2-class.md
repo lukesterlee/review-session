@@ -15,6 +15,8 @@
 
 #### Lecture)
 
+// white board explanation part
+
 blueprint, template, recipe, format/form of the card
 
 Definition from Oracle : 
@@ -35,6 +37,8 @@ String class, Scanner Class, ArrayList Class, Person Class
 
 #### Lecture)
 
+// white board explanation part
+
 actual object, copy,
 
 Definition from Oracle : 
@@ -49,7 +53,9 @@ Definition from somwhere :
 
 #### Lecture)
 
-apple pie recipe VS apple pie
+// white board explanation part
+
+analogies : apple pie recipe VS apple pie
 
 empty card with field
 
@@ -61,6 +67,8 @@ empty card with field
 
 #### Lecture)
 
+// white board explanation part
+
 in order to create instances, every time you see new
 
 #### Example)
@@ -70,6 +78,8 @@ in order to create instances, every time you see new
 # 5. static? non-static? (class variables VS instance variables)
 
 #### Lecture)
+
+// white board explanation part
 
 static : class variables, one copy, general, global, independent from instances
 
@@ -90,6 +100,8 @@ static : number of dogs, people
 # 6. this keyword
 
 #### Lecture)
+
+// white board explanation part
 
 why are we using this keyword? constructor with this keyword
 
@@ -116,6 +128,8 @@ why we don't use `this.age` while we use `this.name`?
 
 #### Lecture)
 
+// white board explanation part
+
 data encapsulation
 
 #### Example)
@@ -126,6 +140,8 @@ data encapsulation
 # THIS IS THE MOST IMPORTANT PART!!!
 
 #### Lecture)
+
+// white board explanation part
 
 heap, stack, cup, remote control
 
