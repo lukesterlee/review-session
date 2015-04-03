@@ -84,6 +84,8 @@ max, sum
 
 #### Lecture) 
 
+difference between void print and return value
+
 #### Example)
 
 > **Exercise:**
