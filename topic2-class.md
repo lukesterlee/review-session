@@ -166,9 +166,7 @@ public static void main(String[] args) {
 
 
 
-#### Exercise)
-
-What is wrong with this code?
+> **Exercise:** What is wrong with this code?
 
 ```java
 Person p1;
@@ -176,6 +174,8 @@ for (int i = 1; i < 10; i++) {
      p1 = new Person();
 }
 ```
+
+> **Exercise:** Now we fully understand why we can't use `==` for String class. Explain to me! 
 
 # 9. Final
 
