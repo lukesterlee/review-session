@@ -19,9 +19,9 @@
 
 # People
 
-> Friday session : `Janneisy`, `Anna`, `Vanice`, `Madelyn`, `John`, `Jose`, `Jorge`(at 8:30pm)
+> Friday session : `Janneisy`, `Anna`, `Madelyn`, `John`, `Jose`, `Jorge`(at 8:30pm)
 
-> Sunday session : `Jorge`, `Elvis`, `Ray`, `Joshelyn`, `Reinard`, `Anna`
+> Sunday session : `Jorge`, `Elvis`, `Ray`, `Joshelyn`, `Reinard`, `Vanice`, `Anna`
 
 
 # Topics
