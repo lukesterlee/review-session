@@ -1,6 +1,6 @@
 # Objectives
 
-- To help students who are struggling before we start Android development.
+- To help students before we start Android development.
 - Understanding the basic concepts of methods, class, objects.
 
 # Time & Place
