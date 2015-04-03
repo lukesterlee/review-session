@@ -82,6 +82,10 @@ What is constructor?
 
 #### Example)
 
+constructors with zero argument, one argument, two or more arguments.
+
+
+
 #### Exercise)
 
 # 5. static? non-static? (class variables VS instance variables)
