@@ -256,3 +256,7 @@ Write a static method named `min` which takes TWO integer numbers as arguments a
 #### Exercise 4) 
 
 Change code example 1.1 to a method which takes TWO integer numbers as arguments and returns the sum of between two numbers.
+
+#### Exercise 5) 
+
+Now we can take a look at Linear Search
