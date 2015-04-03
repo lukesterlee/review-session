@@ -179,3 +179,25 @@ one big example
 
 
 > **Exercise:** What is wrong with this code?
+
+> **Exercise:** Sum of the digits of a number
+> number = 245, sum of digits = 11
+
+```java
+public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+    int n;
+    System.out.println("Enter a positive integer: ");
+    n = input.nextInt();
+    
+    int sum = 0;
+    while (n > 0) {
+        sum += n%10;
+        n = n/10;
+    }
+    
+    System.out.println("The digit sum is: " + sum);
+}
+```
+
+> Change this code into something modular. Write a method called `sumOfDigits` and use it in main method.
