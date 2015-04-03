@@ -147,7 +147,11 @@ calendar
 
 # 8. Final
 
-> **Exercise:**
+#### Example)
+
+one big example 
+
+> **Exercise:** do the same
 
 
 ex) what is wrong with following examples?
