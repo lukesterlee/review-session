@@ -27,7 +27,7 @@
 
 # Topics
 
-#### 1. Methods
+#### 1. [Methods](https://github.com/lukesterlee/review-session/blob/master/topic1-methods.md)
 
 - What is methods?
 - Structure of a method (modifier, argument(s), return value)
