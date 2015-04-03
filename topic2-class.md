@@ -158,6 +158,9 @@ public class Cat {
 
 What is wrong with this problem?
 
+![](https://github.com/lukesterlee/review-session/blob/master/class/publicprivate.JPG)
+
+
 ```java
 public class Cat {
 
@@ -183,9 +186,6 @@ public class Cat {
      }
 }
 ```
-
-![](https://github.com/lukesterlee/review-session/blob/master/class/publicprivate.JPG)
-
 
 
 # 8. primitives VS references (pass by value) THIS IS THE MOST IMPORTANT PART!!!
