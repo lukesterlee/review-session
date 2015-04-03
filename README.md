@@ -19,11 +19,10 @@
 
 # People
 
-> Friday session : `Janneisy`, `Anna`, `Vanice`, `Reinard`, `Madelyn`, (John)*
+> Friday session : `Janneisy`, `Anna`, `Vanice`, `Madelyn`, `John`, `Jose`, `Jorge`(at 8:30pm)
 
-> Sunday session : `Jorge`, `Elvis`, `Ray`, `Joshelyn`, (Anna)*
+> Sunday session : `Jorge`, `Elvis`, `Ray`, `Joshelyn`, `Reinard`, `Anna`
 
-\* are guests.
 
 # Topics
 
