@@ -183,8 +183,8 @@ for (int i = 1; i < 10; i++) {
 > **Final Exercise:** Implements a Circle class
 
 > underline : static
-> + : public
-> - : private
+> \+ : public
+> \- : private
 
 ![](https://github.com/lukesterlee/review-session/blob/master/class/circle.JPG)
 
