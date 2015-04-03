@@ -15,7 +15,9 @@
 
 #### Lecture) 
 
-magic box, re-use, blocks
+Methods are like `Magic Box`.
+
+re-use, blocks
 
 You don't have to exactly know how it works
 
