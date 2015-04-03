@@ -46,9 +46,6 @@ public static void main(String[] args) {
 }
 ```
 
-> **Exercise:**
-
-> **Exercise:** What is wrong with this code?
 
 # 2. Define a method / Structure of a method (modifier, argument(s), return value)
 
@@ -62,11 +59,6 @@ p:108~111
 
 #### Example)
 
-> **Exercise:** Write a static method named `min` which takes TWO integer numbers as arguments and returns the smaller one. 
-
-> **Exercise:** Change code example 1.1 to a method which takes TWO integer numbers as arguments and returns the sum of between two numbers.
-
-> **Exercise:** What is wrong with this code?
 
 # 3. Calliing a method (call stack) (execution flow of a method and main)
 
@@ -81,7 +73,7 @@ max, sum
 
 #### Example)
 
-> **Exercise:** What is wrong with this code?
+What is wrong with this code?
 
 ```java
 public static void main(String[] args) {
@@ -107,7 +99,6 @@ difference between void print and return value
 
 ```
 
-> **Exercise:** What is wrong with this code?
 
 
 # 5. pass by value VS pass by reference
@@ -149,7 +140,7 @@ change the code so it does something.
 
 #### Example)
 
-> **Exercise:** What is wrong with this code?
+
 
 # 7. Modularizing
 
@@ -167,7 +158,6 @@ Modularizing code also makes your main clean and more readible and logic becomes
 
 calendar
 
-> **Exercise:** What is wrong with this code?
 
 # 8. Final
 
@@ -177,17 +167,17 @@ one big example
 
 > **Exercise:** do the same
 
-> **Exercise:** Write a method named `cube` which takes an integer value as an argument and returns the cube of that integer. Then, call it in main.
+#### Exercise 1)
 
+Write a method named `cube` which takes an integer value as an argument and returns the cube of that integer. Then, call it in main.
 
-> **Exercise:** What is wrong with this code?
+#### Exercise 2)
 
+Sum of the digits of a number.
 
-> **Exercise:** Sum of the digits of a number
+number = 245, sum of digits = 11
 
-> number = 245, sum of digits = 11
-
-> Change this code into something modular. Write a method called `sumOfDigits` and use it in main method.
+Change this code into something modular. Write a method called `sumOfDigits` and use it in main method.
 
 
 ```java
@@ -214,3 +204,10 @@ Enter a positive integer: 245
 The digit sum is: 11
 ```
 
+#### Exercise 3)
+
+Write a static method named `min` which takes TWO integer numbers as arguments and returns the smaller one. 
+
+#### Exercise 4) 
+
+Change code example 1.1 to a method which takes TWO integer numbers as arguments and returns the sum of between two numbers.
