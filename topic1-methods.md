@@ -192,8 +192,8 @@ one big example
 public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     int n;
-    System.out.println("Enter a positive integer: ");
-    n = input.nextInt();
+    System.out.print("Enter a positive integer: ");
+    n = input.nextInt(); // 245
     
     int sum = 0;
     while (n > 0) {
@@ -205,4 +205,10 @@ public static void main(String[] args) {
 }
 ```
 
+Output will be :
+
+```java
+Enter a positive integer: 245
+The digit sum is: 11
+```
 
