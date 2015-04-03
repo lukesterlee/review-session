@@ -105,8 +105,6 @@ public class Person {
           this.name = name;
           age = 0;
      }
-     
-     
 }
 ```
 
