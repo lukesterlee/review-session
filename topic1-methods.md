@@ -96,6 +96,8 @@ difference between void print and return value
 
 #### Lecture) 
 
+Java is **ALWAYS** pass by **VALUE!**
+
 #### Example)
 
 ```java
