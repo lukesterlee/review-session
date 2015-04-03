@@ -180,6 +180,7 @@ one big example
 
 > **Exercise:** What is wrong with this code?
 
+
 > **Exercise:** Sum of the digits of a number
 
 > number = 245, sum of digits = 11
