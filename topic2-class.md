@@ -29,6 +29,8 @@ Anything with Capital letters is Class.
 
 Class has TWO things : data members + class methods
 
+Magical power of DOT = className || instanceName + DOT!
+
 String class, Scanner Class, ArrayList Class, Person Class
 
 #### Exercise)
@@ -133,6 +135,55 @@ why we don't use `this.age` while we use `this.name`?
 data encapsulation
 
 #### Example)
+
+```java
+public class Cat {
+
+     public String name;
+     public int height;
+     
+     public Cat(String name) {
+          this.name = name;
+     }
+     
+     public static void main(String[] args) {
+          Cat c1 = new Cat("Mimi");
+          Cat c2 = new Cat("Bobo");
+          
+          c1.height = 27;
+          c2.height = 0; // What?????
+     }
+}
+```
+
+What is wrong with this problem?
+
+```java
+public class Cat {
+
+     private String name;
+     private int height;
+     
+     public Cat(String name) {
+          this.name = name;
+     }
+     
+     public static void main(String[] args) {
+          Cat c1 = new Cat("Mimi");
+          Cat c2 = new Cat("Bobo");
+          
+          c1.height = 27;
+          c2.height = 0; // What?????
+     }
+     
+     public void setHeight(int inches) {
+          if (inches > 6) {
+               height = inches; // quick question : why we don't use this.height?
+          }
+     }
+}
+```
+
 
 #### Exercise)
 
