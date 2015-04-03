@@ -303,3 +303,11 @@ TV
 
 Mp3
 
+Data members : `name` `artist` `album` `jenre` etc...
+
+Methods : 
+
+Make both instance variables (non-static) and class variables (static)
+
+Make both instance methods (non-static) and class methods (static)
+
