@@ -137,7 +137,7 @@ change the code so it does something.
 
 #### Lecture) 
 
-The whole point of using methods is `**reducing redundant**` and `**code reuse**`
+The whole point of using methods is **`reducing redundant`** and `**code reuse**`
 
 #### Example)
 
