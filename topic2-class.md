@@ -187,10 +187,8 @@ public class Cat {
 ![](https://github.com/lukesterlee/review-session/blob/master/class/publicprivate.JPG)
 
 
-#### Exercise)
 
-# 8. primitives VS references (pass by value)
-# THIS IS THE MOST IMPORTANT PART!!!
+# 8. primitives VS references (pass by value) THIS IS THE MOST IMPORTANT PART!!!
 
 #### Lecture)
 
