@@ -114,7 +114,7 @@ public static void doSomething(int x, int y) {
 ```
 
 swap
-
+increment
 
 > **Exercise:**
 
@@ -139,7 +139,7 @@ change the code so it does something.
 
 #### Example)
 
-drawRocket
+[drawRocket](https://github.com/lukesterlee/accesscode/blob/master/AC_20150312/src/nyc/c4q/lukesterlee/DrawRocket.java)
 
 calendar
 
