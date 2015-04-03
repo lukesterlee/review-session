@@ -2,8 +2,7 @@
 # Topic 1. Methods - Overview
 
 - What is methods?
-- Structure of a method (modifier, argument(s), return value)
-- Defining a method
+- Define a method / Structure of a method (modifier, argument(s), return value)
 - Calliing a method (call stack) (execution flow of a method and main)
 - Return types : void and others (what do I do with the return value?)
 - pass by value VS pass by reference
@@ -63,7 +62,7 @@ p:108~111
 
 > **Exercise:** Change code example 1.1 to a method which takes TWO integer numbers as arguments and returns the sum of between two numbers.
 
-# 4. Calliing a method (call stack) (execution flow of a method and main)
+# 3. Calliing a method (call stack) (execution flow of a method and main)
 
 #### Lecture)  
 
@@ -78,7 +77,7 @@ max, sum
 
 > **Exercise:**
 
-# 5. Return types : void and others (what do I do with the return value?)
+# 4. Return types : void and others (what do I do with the return value?)
 
 #### Lecture) 
 
@@ -89,7 +88,7 @@ difference between void print and return value
 > **Exercise:**
 
 
-# 6. pass by value VS pass by reference
+# 5. pass by value VS pass by reference
 
 #### Lecture) 
 
@@ -113,7 +112,7 @@ public static void doSomething(int x, int y) {
 change the code so it does something.
 
 
-# 7. The scope of variables
+# 6. The scope of variables
 
 #### Lecture) 
 
@@ -125,7 +124,7 @@ change the code so it does something.
 
 > **Exercise:**
 
-# 8. Modularizing
+# 7. Modularizing
 
 #### Lecture) 
 
@@ -137,7 +136,7 @@ calendar
 
 > **Exercise:**
 
-# 9. General design : top down design and implementation
+# 8. General design : top down design and implementation
 
 #### Lecture) 
 
