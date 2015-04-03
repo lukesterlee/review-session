@@ -39,7 +39,7 @@
 - Modularizing
 - General design : top down design and implementation
 
-#### 2. Class
+#### 2. [Class](https://github.com/lukesterlee/review-session/blob/master/topic2-class.md)
 
 - What is class?
 - What is object?
