@@ -110,8 +110,11 @@ static : number of dogs, people
 #### Exercise)
 
 > **Quiz:** If you want to make a variable a class variable, what statement must you use when it is created?
+
 > A. new
+
 > B. public
+
 > C. static
 
 # 6. this keyword
