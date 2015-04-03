@@ -137,7 +137,10 @@ change the code so it does something.
 
 #### Lecture) 
 
-The whole point of using methods is **`reducing redundant`** and `**code reuse**`
+The whole point of using methods is **`reducing redundant`** and **`code reuse`**.
+
+Modularizing code also makes your main clean and more readible.
+
 
 #### Example)
 
