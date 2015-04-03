@@ -17,7 +17,7 @@
 
 // white board explanation part
 
-blueprint, template, recipe, format/form of the card
+`blueprint`, `template`, `recipe`, `format`/`form` of the card
 
 ![](https://github.com/lukesterlee/review-session/blob/master/class/uTlnv.jpg)
 
