@@ -19,6 +19,8 @@
 
 blueprint, template, recipe, format/form of the card
 
+![](https://github.com/lukesterlee/review-session/blob/master/class/uTlnv.jpg)
+
 Definition from Oracle : 
 
 Definition from somwhere : 
