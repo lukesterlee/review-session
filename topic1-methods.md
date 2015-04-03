@@ -25,6 +25,7 @@ what you need to know is what you should give (arguments) and what you are going
 #### Example)
 
 > code example 1.1
+
 ```java
 public static void main(String[] args) {
     int sum = 0;
