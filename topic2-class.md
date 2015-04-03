@@ -247,20 +247,26 @@ for (int i = 1; i < 10; i++) {
 
 # 9. Final
 
-> **Final Exercise:** Implements a Circle class
+#### Exercise 1)
 
-> underline : static
+Implements a Circle class
 
-> \+ : public
+underline : static
 
-> \- : private
+\+ : public
 
-![](https://github.com/lukesterlee/review-session/blob/master/class/circle.JPG)
+\- : private
+
+![](https://github.com/lukesterlee/review-session/blob/master/class/circle2.JPG)
 
 
 Dog
 
-Person
+#### Exercise 2)
+
+Implements a Person class
+
+![](https://github.com/lukesterlee/review-session/blob/master/class/person.JPG)
 
 Book
 
