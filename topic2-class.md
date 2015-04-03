@@ -311,3 +311,4 @@ Make both instance variables (non-static) and class variables (static)
 
 Make both instance methods (non-static) and class methods (static)
 
+Point
