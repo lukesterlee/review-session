@@ -205,18 +205,12 @@ Modularizing code also makes your main clean and more readible and logic becomes
 
 #### Example)
 
-[drawRocket](https://github.com/lukesterlee/accesscode/blob/master/AC_20150312/src/nyc/c4q/lukesterlee/DrawRocket.java)
+[drawRocket method](https://github.com/lukesterlee/accesscode/blob/master/AC_20150312/src/nyc/c4q/lukesterlee/DrawRocket.java)
 
-calendar
+[Calendar project](https://github.com/lukesterlee/accesscode/blob/master/calendar/src/nyc/c4q/ac21/calendar/Main.java)
 
 
 # 8. Final
-
-#### Example)
-
-one big example 
-
-> **Exercise:** do the same
 
 #### Exercise 1)
 
