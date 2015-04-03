@@ -63,6 +63,14 @@ non-static : instance variables, specific,
 
 #### Example)
 
+```java
+
+```
+instance variables : age, 
+static : number of legs of dogs
+static : number of dogs, people
+
+
 #### Exercise)
 
 # 6. this keyword
