@@ -91,9 +91,17 @@ non-static : instance variables, specific,
 
 #### Example)
 
-```java
+let's see what is gonna happen when you type :
 
+```java
+String.
 ```
+
+```java
+String a = "hello";
+a.
+```
+
 instance variables : age, 
 static : number of legs of dogs
 static : number of dogs, people
