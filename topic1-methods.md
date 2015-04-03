@@ -141,7 +141,8 @@ change the code so it does something.
 
 The whole point of using methods is **`reducing redundant`** and **`code reuse`**.
 
-Modularizing code also makes your main clean and more readible.
+Modularizing code also makes your main clean and more readible and logic becomes clear
+
 
 
 #### Example)
