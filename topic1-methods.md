@@ -155,8 +155,7 @@ public static void doSomething(int x, int y) {
 }
 ```
 
-swap
-increment
+swap example
 
 > **Exercise:** What is the expected output?
 
