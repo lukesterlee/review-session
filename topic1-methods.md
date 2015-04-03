@@ -47,23 +47,15 @@ public static void main(String[] args) {
 
 > **Exercise:**
 
-# 2. Structure of a method (modifier, argument(s), return value)
+# 2. Define a method / Structure of a method (modifier, argument(s), return value)
 
 #### Lecture) 
 
 ![example](https://github.com/lukesterlee/review-session/blob/master/methods/structureOfMethods.JPG)
 
-p:108~111
-
-#### Example)
-
-> **Exercise:** 
-
-# 3. Defining a method
-
-#### Lecture) 
-
 Declaring/defining(making,creating) VS Calling(using)
+
+p:108~111
 
 #### Example)
 
