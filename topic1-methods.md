@@ -15,6 +15,8 @@
 
 #### Lecture) 
 
+// white board explanation part
+
 Methods are like `Magic Box`.
 
 re-use, blocks
@@ -51,6 +53,8 @@ public static void main(String[] args) {
 
 #### Lecture) 
 
+// white board explanation part
+
 ![example](https://github.com/lukesterlee/review-session/blob/master/methods/structureOfMethods.JPG)
 
 Declaring/defining(making,creating) VS Calling(using)
@@ -63,6 +67,8 @@ p:108~111
 # 3. Calliing a method (call stack) (execution flow of a method and main)
 
 #### Lecture)  
+
+// white board explanation part
 
 ![Calling](https://github.com/lukesterlee/review-session/blob/master/methods/calling.JPG)
 
@@ -91,6 +97,8 @@ public static void sum(int x, int y) {
 
 #### Lecture) 
 
+// white board explanation part
+
 difference between void print and return value
 
 #### Example)
@@ -104,6 +112,8 @@ difference between void print and return value
 # 5. pass by value VS pass by reference
 
 #### Lecture) 
+
+// white board explanation part
 
 Java is **ALWAYS** pass by **VALUE!**
 
@@ -134,6 +144,8 @@ change the code so it does something.
 
 #### Lecture) 
 
+// white board explanation part
+
 ![](https://github.com/lukesterlee/review-session/blob/master/methods/scopeforloop.JPG)
 
 ![](https://github.com/lukesterlee/review-session/blob/master/methods/scopecomparison.JPG)
@@ -145,6 +157,8 @@ change the code so it does something.
 # 7. Modularizing
 
 #### Lecture) 
+
+// white board explanation part
 
 The whole point of using methods is **`reducing redundant`** and **`code reuse`**.
 
