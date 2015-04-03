@@ -137,6 +137,8 @@ change the code so it does something.
 
 #### Lecture) 
 
+The whole point of using methods is `**reducing redundant**` and `**code reuse**`
+
 #### Example)
 
 [drawRocket](https://github.com/lukesterlee/accesscode/blob/master/AC_20150312/src/nyc/c4q/lukesterlee/DrawRocket.java)
