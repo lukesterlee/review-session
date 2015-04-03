@@ -17,7 +17,17 @@
 
 blueprint, template, recipe, format/form of the card
 
+Definition from Oracle : 
+
+Definition from somwhere : 
+
 #### Example)
+
+Anything with Capital letters is Class.
+
+Class has TWO things : data members + class methods
+
+String class, Scanner Class, ArrayList Class, Person Class
 
 #### Exercise)
 
@@ -26,6 +36,10 @@ blueprint, template, recipe, format/form of the card
 #### Lecture)
 
 actual object, copy,
+
+Definition from Oracle : 
+
+Definition from somwhere : 
 
 #### Example)
 
