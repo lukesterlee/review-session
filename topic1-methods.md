@@ -67,6 +67,8 @@ p:108~111
 
 > **Exercise:** Write a static method named `min` which takes TWO integer numbers as arguments and returns the smaller one. 
 
+> **Exercise:** Change code example 1.1 to a method which takes TWO integer numbers as arguments and returns the sum of between two numbers.
+
 # 4. Calliing a method (call stack) (execution flow of a method and main)
 
 #### Lecture)  
