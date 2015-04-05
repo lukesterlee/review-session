@@ -10,6 +10,7 @@
 - public? private? and getter and setter
 - primitives VS references (pass by value)
 
+[Slides](https://docs.google.com/presentation/d/10sXtN25dUCDt1dmotdAf3gZApyU4smrwphjrVbgoteU/edit?usp=sharing)
 
 # 1. What is class?
 
